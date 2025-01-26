@@ -1,0 +1,34 @@
+www.reddit.com##alert-controller
+||vic2.club$image
+www.aowvn.org##div:nth-of-type(6)
+www.aowvn.org##div:nth-of-type(10)
+shopee.vn##shopee-vertical-stack-ui
+ycongnghe.com##.td_block_template_1.tdi_2.td-a-rec-id-content_top.td-a-rec > center > [href] > button
+||techvccloud.mediacdn.vn/280518386289090560/2023/7/28/cloud-server-02-16905164934022072374869.gif$image
+old.reddit.com##.premium-banner
+old.reddit.com###redesign-beta-optin-btn
+||vlxx.pet/theme/vp/images/banner3.jpg$image
+||baomoi-static.bmcdn.me/web/styles/img/pls-bg-1.png$image
+||aedownload.com/wp-content/uploads/2024/09/fytgju7*.png$image
+||aedownload.com/wp-content/uploads/2024/11/premierepro-free-templates*.png$image
+aedownload.com##.recommended
+aedownload.com##.flickity-slider
+aedownload.com##.flickity-viewport
+aedownload.com##.flickity-page-dots
+aedownload.com##.is-draggable.flickity-enabled.js-flickity.gallery
+aedownload.com##.holler-box-modal
+vfxdownload.com##.hwp-show.hwp-bottomright.hwp-btn-166281.hwp-floating-btn
+vfxdownload.com##.flickity-page-dots
+vfxdownload.com##.flickity-slider
+vfxdownload.com##.next.flickity-prev-next-button.flickity-button
+vfxdownload.com##.previous.flickity-prev-next-button.flickity-button
+
+! Jan 27, 2025 https://vfxdownload.com
+||aedownload.com/wp-content$image
+||aedownload.com/wp-content/$image
+vfxdownload.com###text-49
+vfxdownload.com###text-46
+vfxdownload.com###text-45
+vfxdownload.com###text-51
+||aedownload.com/wp-content$image
+
