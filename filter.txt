@@ -1,34 +1,57 @@
 www.reddit.com##alert-controller
+old.reddit.com##.premium-banner
+old.reddit.com###redesign-beta-optin-btn
+
 ||vic2.club$image
+||vlxx.pet/theme/vp/images/banner3.jpg$image
+||baomoi-static.bmcdn.me/web/styles/img/pls-bg-1.png$image
+||techvccloud.mediacdn.vn/280518386289090560/2023/7/28/cloud-server-02-16905164934022072374869.gif$image
+
 www.aowvn.org##div:nth-of-type(6)
 www.aowvn.org##div:nth-of-type(10)
 shopee.vn##shopee-vertical-stack-ui
 ycongnghe.com##.td_block_template_1.tdi_2.td-a-rec-id-content_top.td-a-rec > center > [href] > button
-||techvccloud.mediacdn.vn/280518386289090560/2023/7/28/cloud-server-02-16905164934022072374869.gif$image
-old.reddit.com##.premium-banner
-old.reddit.com###redesign-beta-optin-btn
-||vlxx.pet/theme/vp/images/banner3.jpg$image
-||baomoi-static.bmcdn.me/web/styles/img/pls-bg-1.png$image
+
 ||aedownload.com/wp-content/uploads/2024/09/fytgju7*.png$image
 ||aedownload.com/wp-content/uploads/2024/11/premierepro-free-templates*.png$image
+||aedownload.com/wp-content$image
 aedownload.com##.recommended
 aedownload.com##.flickity-slider
 aedownload.com##.flickity-viewport
 aedownload.com##.flickity-page-dots
 aedownload.com##.is-draggable.flickity-enabled.js-flickity.gallery
 aedownload.com##.holler-box-modal
+
 vfxdownload.com##.hwp-show.hwp-bottomright.hwp-btn-166281.hwp-floating-btn
 vfxdownload.com##.flickity-page-dots
 vfxdownload.com##.flickity-slider
 vfxdownload.com##.next.flickity-prev-next-button.flickity-button
 vfxdownload.com##.previous.flickity-prev-next-button.flickity-button
-
-! Jan 27, 2025 https://vfxdownload.com
-||aedownload.com/wp-content$image
-||aedownload.com/wp-content/$image
 vfxdownload.com###text-49
 vfxdownload.com###text-46
 vfxdownload.com###text-45
 vfxdownload.com###text-51
-||aedownload.com/wp-content$image
 
+www.bellesa.co##.VideoCardWithButton__VideoAd-sc-p56rsr-1
+www.pornhub.com##.middleAdContainer
+www.pornhub.com##.adContainer
+
+hentai-vn.lol##img[style="max-width: 100%;width: auto;height: auto;max-height: 80px;margin: 5px 0 0;"]
+hentai-vn.lol##img[src="https://hentai-vn.lol/wp-content/uploads/2024/07/789.gif"]
+
+app.gaimup.net##img[src="https://ads.6789live.com"]
+app.gaimup.net##img[src="https://ads.6789live.com/net88.gif"]
+app.gaimup.net##img[src="https://ads.6789live.com/da88.gif"]
+app.gaimup.net##.we-nopop
+
+njav.tv##img[src="/ad/stake/ALL2/300x150.gif"]
+njav.tv##img[src="/ad/stake/ALL2/300x50.gif"]
+
+cliphotnew2.com##img[src="https://cliphotnew2.com/uploads/images/1728x90.gif"]
+cliphotnew2.com##p[style="max-width: 728px; margin: 3px auto;"]
+cliphotnew2.com###catfish_image_mobile
+
+||dangkysumvip.vip
+||gai1.buomngon.com/
+||buomngon.com/
+||new188.vip/
