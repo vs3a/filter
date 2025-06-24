@@ -62,5 +62,7 @@ phimxxx.ai##.adswbt
 phimxxx.ai##.jw-reset.jw-video
 ||imgcdn.mikelarsenal.pro$image
 
+shopee.vn##shopee-banner-popup-stateful
+
 fitgirl-repacks.site##.jetpack-subscribe-modal
 fitgirl-repacks.site##body:style(overflow: auto !important;)
